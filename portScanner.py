@@ -1,5 +1,5 @@
 import socket, threading
-
+#python3.7.*
 def scan_port(ip,port,lock):
  s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
  s.settimeout(3)
