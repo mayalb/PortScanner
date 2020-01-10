@@ -1,0 +1,4 @@
+https://emalsha.wordpress.com/2016/11/22/how-create-http-server-using-python-socket/
+
+===
+https://emalsha.wordpress.com/2016/11/24/how-create-http-server-using-python-socket-part-ii/
